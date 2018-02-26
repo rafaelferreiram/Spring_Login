@@ -1,0 +1,10 @@
+com\academia\model\User.class
+com\academia\DemoApplication.class
+com\academia\configuration\SecurityConfiguration.class
+com\academia\repository\UserRepository.class
+com\academia\repository\RoleRepository.class
+com\academia\configuration\WebMvcConfig.class
+com\academia\service\UserService.class
+com\academia\model\Role.class
+com\academia\controller\LoginController.class
+com\academia\service\UserServiceImpl.class
